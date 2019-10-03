@@ -18,6 +18,7 @@ public class Enemy {
     private int xPosition;
     private int yPosition;
 
+
     public Enemy(Context context, int x, int y) {
         // 1. set up the initial position of the Enemy
         this.xPosition = x;
