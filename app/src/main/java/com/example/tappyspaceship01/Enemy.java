@@ -5,6 +5,8 @@ import android.graphics.Bitmap;
 import android.graphics.BitmapFactory;
 import android.graphics.Rect;
 import java.util.ArrayList;
+
+
 public class Enemy {
 
     // PROPERTIES:
